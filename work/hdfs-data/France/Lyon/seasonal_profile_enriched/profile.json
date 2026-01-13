@@ -1,0 +1,409 @@
+{
+  "city": "Lyon",
+  "country": "France",
+  "year": null,
+  "generated_at": "2026-01-13T16:10:33.002629",
+  "validation": {
+    "is_valid": true,
+    "errors": [],
+    "warnings": []
+  },
+  "profiles": [
+    {
+      "month": 1,
+      "month_name": "Janvier",
+      "temperature": {
+        "mean": 3.87,
+        "median": 3.9,
+        "stddev": 3.6,
+        "min": 0.98,
+        "max": 6.98,
+        "absolute_min": -8.4,
+        "absolute_max": 15.6,
+        "q25": 1.0,
+        "q75": 6.8,
+        "iqr": 5.8
+      },
+      "wind": {
+        "mean": 17.61,
+        "median": 17.3,
+        "stddev": 7.56,
+        "gust_mean": 36.06,
+        "absolute_min": 4.7,
+        "absolute_max": 94.3,
+        "q25": 11.4,
+        "q75": 22.7,
+        "iqr": 11.3
+      },
+      "precipitation": {
+        "mean": 2.27,
+        "stddev": 3.88,
+        "max": 31.4
+      },
+      "days_count": 341
+    },
+    {
+      "month": 2,
+      "month_name": "F\u00e9vrier",
+      "temperature": {
+        "mean": 5.57,
+        "median": 5.7,
+        "stddev": 3.07,
+        "min": 1.58,
+        "max": 9.95,
+        "absolute_min": -8.7,
+        "absolute_max": 18.5,
+        "q25": 3.7,
+        "q75": 7.6,
+        "iqr": 3.9
+      },
+      "wind": {
+        "mean": 18.65,
+        "median": 17.2,
+        "stddev": 8.13,
+        "gust_mean": 38.35,
+        "absolute_min": 5.4,
+        "absolute_max": 82.8,
+        "q25": 11.9,
+        "q75": 24.1,
+        "iqr": 12.2
+      },
+      "precipitation": {
+        "mean": 1.85,
+        "stddev": 3.68,
+        "max": 21.4
+      },
+      "days_count": 311
+    },
+    {
+      "month": 3,
+      "month_name": "Mars",
+      "temperature": {
+        "mean": 8.32,
+        "median": 8.2,
+        "stddev": 2.75,
+        "min": 3.59,
+        "max": 13.42,
+        "absolute_min": -3.3,
+        "absolute_max": 23.9,
+        "q25": 6.3,
+        "q75": 10.4,
+        "iqr": 4.1
+      },
+      "wind": {
+        "mean": 18.4,
+        "median": 16.6,
+        "stddev": 7.82,
+        "gust_mean": 38.74,
+        "absolute_min": 5.6,
+        "absolute_max": 91.4,
+        "q25": 12.5,
+        "q75": 23.4,
+        "iqr": 10.9
+      },
+      "precipitation": {
+        "mean": 2.11,
+        "stddev": 3.98,
+        "max": 25.2
+      },
+      "days_count": 341
+    },
+    {
+      "month": 4,
+      "month_name": "Avril",
+      "temperature": {
+        "mean": 11.69,
+        "median": 12.0,
+        "stddev": 3.31,
+        "min": 6.57,
+        "max": 16.81,
+        "absolute_min": -1.0,
+        "absolute_max": 26.4,
+        "q25": 9.5,
+        "q75": 14.1,
+        "iqr": 4.6
+      },
+      "wind": {
+        "mean": 18.44,
+        "median": 17.1,
+        "stddev": 7.27,
+        "gust_mean": 38.61,
+        "absolute_min": 6.4,
+        "absolute_max": 109.4,
+        "q25": 12.8,
+        "q75": 23.1,
+        "iqr": 10.3
+      },
+      "precipitation": {
+        "mean": 2.05,
+        "stddev": 4.59,
+        "max": 36.6
+      },
+      "days_count": 330
+    },
+    {
+      "month": 5,
+      "month_name": "Mai",
+      "temperature": {
+        "mean": 15.42,
+        "median": 15.3,
+        "stddev": 3.33,
+        "min": 10.53,
+        "max": 20.27,
+        "absolute_min": 2.2,
+        "absolute_max": 30.8,
+        "q25": 12.9,
+        "q75": 17.5,
+        "iqr": 4.6
+      },
+      "wind": {
+        "mean": 18.33,
+        "median": 17.9,
+        "stddev": 6.46,
+        "gust_mean": 39.34,
+        "absolute_min": 5.8,
+        "absolute_max": 83.2,
+        "q25": 13.4,
+        "q75": 22.4,
+        "iqr": 9.0
+      },
+      "precipitation": {
+        "mean": 3.03,
+        "stddev": 5.86,
+        "max": 54.3
+      },
+      "days_count": 341
+    },
+    {
+      "month": 6,
+      "month_name": "Juin",
+      "temperature": {
+        "mean": 20.62,
+        "median": 20.4,
+        "stddev": 3.24,
+        "min": 15.41,
+        "max": 25.82,
+        "absolute_min": 8.4,
+        "absolute_max": 36.4,
+        "q25": 18.1,
+        "q75": 22.7,
+        "iqr": 4.6
+      },
+      "wind": {
+        "mean": 16.8,
+        "median": 16.2,
+        "stddev": 5.76,
+        "gust_mean": 36.45,
+        "absolute_min": 6.3,
+        "absolute_max": 83.5,
+        "q25": 12.4,
+        "q75": 20.4,
+        "iqr": 8.0
+      },
+      "precipitation": {
+        "mean": 2.73,
+        "stddev": 5.75,
+        "max": 34.3
+      },
+      "days_count": 330
+    },
+    {
+      "month": 7,
+      "month_name": "Juillet",
+      "temperature": {
+        "mean": 22.71,
+        "median": 22.6,
+        "stddev": 3.25,
+        "min": 17.23,
+        "max": 28.06,
+        "absolute_min": 11.2,
+        "absolute_max": 38.8,
+        "q25": 20.5,
+        "q75": 24.9,
+        "iqr": 4.4
+      },
+      "wind": {
+        "mean": 16.19,
+        "median": 15.6,
+        "stddev": 5.39,
+        "gust_mean": 35.16,
+        "absolute_min": 5.6,
+        "absolute_max": 67.3,
+        "q25": 12.0,
+        "q75": 20.0,
+        "iqr": 8.0
+      },
+      "precipitation": {
+        "mean": 2.23,
+        "stddev": 5.52,
+        "max": 39.3
+      },
+      "days_count": 341
+    },
+    {
+      "month": 8,
+      "month_name": "Ao\u00fbt",
+      "temperature": {
+        "mean": 22.18,
+        "median": 22.3,
+        "stddev": 3.48,
+        "min": 16.8,
+        "max": 27.65,
+        "absolute_min": 9.7,
+        "absolute_max": 40.2,
+        "q25": 19.3,
+        "q75": 24.6,
+        "iqr": 5.3
+      },
+      "wind": {
+        "mean": 15.48,
+        "median": 15.5,
+        "stddev": 5.43,
+        "gust_mean": 33.64,
+        "absolute_min": 5.9,
+        "absolute_max": 73.1,
+        "q25": 11.5,
+        "q75": 19.1,
+        "iqr": 7.6
+      },
+      "precipitation": {
+        "mean": 2.02,
+        "stddev": 5.18,
+        "max": 39.5
+      },
+      "days_count": 341
+    },
+    {
+      "month": 9,
+      "month_name": "Septembre",
+      "temperature": {
+        "mean": 18.16,
+        "median": 18.1,
+        "stddev": 3.54,
+        "min": 13.38,
+        "max": 23.33,
+        "absolute_min": 5.7,
+        "absolute_max": 33.0,
+        "q25": 15.5,
+        "q75": 20.8,
+        "iqr": 5.3
+      },
+      "wind": {
+        "mean": 15.7,
+        "median": 15.1,
+        "stddev": 6.29,
+        "gust_mean": 34.08,
+        "absolute_min": 5.6,
+        "absolute_max": 93.6,
+        "q25": 10.5,
+        "q75": 19.0,
+        "iqr": 8.5
+      },
+      "precipitation": {
+        "mean": 2.37,
+        "stddev": 6.51,
+        "max": 58.3
+      },
+      "days_count": 330
+    },
+    {
+      "month": 10,
+      "month_name": "Octobre",
+      "temperature": {
+        "mean": 13.61,
+        "median": 13.7,
+        "stddev": 3.21,
+        "min": 9.7,
+        "max": 18.04,
+        "absolute_min": 1.6,
+        "absolute_max": 27.2,
+        "q25": 11.3,
+        "q75": 16.0,
+        "iqr": 4.7
+      },
+      "wind": {
+        "mean": 17.58,
+        "median": 16.2,
+        "stddev": 8.42,
+        "gust_mean": 36.66,
+        "absolute_min": 5.2,
+        "absolute_max": 100.1,
+        "q25": 10.8,
+        "q75": 22.7,
+        "iqr": 11.9
+      },
+      "precipitation": {
+        "mean": 3.47,
+        "stddev": 8.93,
+        "max": 65.2
+      },
+      "days_count": 341
+    },
+    {
+      "month": 11,
+      "month_name": "Novembre",
+      "temperature": {
+        "mean": 8.04,
+        "median": 8.1,
+        "stddev": 3.41,
+        "min": 4.88,
+        "max": 11.55,
+        "absolute_min": -2.4,
+        "absolute_max": 20.3,
+        "q25": 5.3,
+        "q75": 10.7,
+        "iqr": 5.4
+      },
+      "wind": {
+        "mean": 16.09,
+        "median": 14.5,
+        "stddev": 7.93,
+        "gust_mean": 33.79,
+        "absolute_min": 4.7,
+        "absolute_max": 99.4,
+        "q25": 9.4,
+        "q75": 20.6,
+        "iqr": 11.2
+      },
+      "precipitation": {
+        "mean": 2.99,
+        "stddev": 6.77,
+        "max": 67.8
+      },
+      "days_count": 330
+    },
+    {
+      "month": 12,
+      "month_name": "D\u00e9cembre",
+      "temperature": {
+        "mean": 4.95,
+        "median": 4.6,
+        "stddev": 3.46,
+        "min": 2.13,
+        "max": 8.0,
+        "absolute_min": -5.2,
+        "absolute_max": 16.8,
+        "q25": 2.2,
+        "q75": 7.3,
+        "iqr": 5.1
+      },
+      "wind": {
+        "mean": 16.6,
+        "median": 15.3,
+        "stddev": 8.54,
+        "gust_mean": 34.06,
+        "absolute_min": 3.9,
+        "absolute_max": 100.8,
+        "q25": 9.8,
+        "q75": 21.3,
+        "iqr": 11.5
+      },
+      "precipitation": {
+        "mean": 2.38,
+        "stddev": 4.33,
+        "max": 29.0
+      },
+      "days_count": 341
+    }
+  ]
+}

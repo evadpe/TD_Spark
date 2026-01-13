@@ -1,0 +1,38 @@
+{
+  "hottest_day": {
+    "date": "2023-08-24",
+    "temp_max": 40.2,
+    "temp_min": 21.6,
+    "description": "Jour le plus chaud: 40.2\u00b0C"
+  },
+  "coldest_day": {
+    "date": "2018-02-28",
+    "temp_max": -0.2,
+    "temp_min": -8.7,
+    "description": "Jour le plus froid: -8.7\u00b0C"
+  },
+  "windiest_day": {
+    "date": "2019-04-25",
+    "windgusts_max": 109.4,
+    "windspeed_max": 55.5,
+    "description": "Rafale la plus forte: 109.4 m/s"
+  },
+  "rainiest_period": {
+    "date": "2023-11-16",
+    "rain_30days": 232.5,
+    "description": "P\u00e9riode la plus pluvieuse (30 jours): 232.5 mm"
+  },
+  "snowiest_day": {
+    "date": "2019-11-14",
+    "snowfall": 9.24,
+    "description": "Jour le plus neigeux: 9.24 cm"
+  },
+  "statistics": {
+    "absolute_max_temp": 40.2,
+    "absolute_min_temp": -8.7,
+    "absolute_max_wind": 109.4,
+    "total_precipitation": 9892.80000000003,
+    "total_snowfall": 142.79999999999995,
+    "total_days": 4018
+  }
+}

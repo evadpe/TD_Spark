@@ -1,0 +1,343 @@
+{
+  "city": "Paris",
+  "country": "France",
+  "generated_at": "2026-01-13T16:01:14.935729",
+  "profiles": [
+    {
+      "month": 1,
+      "month_name": "Janvier",
+      "temperature": {
+        "mean": 4.72,
+        "max": 7.48,
+        "min": 1.97,
+        "stddev": 3.79,
+        "absolute_min": -6.8,
+        "absolute_max": 15.2
+      },
+      "wind": {
+        "mean": 20.84,
+        "gust_mean": 38.44,
+        "stddev": 8.46,
+        "absolute_max": 91.1
+      },
+      "precipitation": {
+        "mean": 2.06,
+        "rain_mean": 1.93,
+        "snowfall_mean": 0.09
+      },
+      "alerts": {
+        "heat_probability": 0.0,
+        "wind_probability": 0.9326
+      },
+      "days_count": 341
+    },
+    {
+      "month": 2,
+      "month_name": "F\u00e9vrier",
+      "temperature": {
+        "mean": 5.97,
+        "max": 9.62,
+        "min": 2.56,
+        "stddev": 3.56,
+        "absolute_min": -8.6,
+        "absolute_max": 18.8
+      },
+      "wind": {
+        "mean": 22.32,
+        "gust_mean": 41.53,
+        "stddev": 8.71,
+        "absolute_max": 94.3
+      },
+      "precipitation": {
+        "mean": 2.0,
+        "rain_mean": 1.88,
+        "snowfall_mean": 0.08
+      },
+      "alerts": {
+        "heat_probability": 0.0,
+        "wind_probability": 0.9582
+      },
+      "days_count": 311
+    },
+    {
+      "month": 3,
+      "month_name": "Mars",
+      "temperature": {
+        "mean": 8.04,
+        "max": 12.46,
+        "min": 3.9,
+        "stddev": 2.69,
+        "absolute_min": -3.8,
+        "absolute_max": 23.8
+      },
+      "wind": {
+        "mean": 20.62,
+        "gust_mean": 38.72,
+        "stddev": 7.87,
+        "absolute_max": 86.4
+      },
+      "precipitation": {
+        "mean": 2.17,
+        "rain_mean": 2.14,
+        "snowfall_mean": 0.02
+      },
+      "alerts": {
+        "heat_probability": 0.0,
+        "wind_probability": 0.956
+      },
+      "days_count": 341
+    },
+    {
+      "month": 4,
+      "month_name": "Avril",
+      "temperature": {
+        "mean": 10.78,
+        "max": 15.7,
+        "min": 5.73,
+        "stddev": 3.21,
+        "absolute_min": -2.5,
+        "absolute_max": 26.7
+      },
+      "wind": {
+        "mean": 18.48,
+        "gust_mean": 35.67,
+        "stddev": 6.28,
+        "absolute_max": 72.7
+      },
+      "precipitation": {
+        "mean": 1.69,
+        "rain_mean": 1.67,
+        "snowfall_mean": 0.01
+      },
+      "alerts": {
+        "heat_probability": 0.0,
+        "wind_probability": 0.9576
+      },
+      "days_count": 330
+    },
+    {
+      "month": 5,
+      "month_name": "Mai",
+      "temperature": {
+        "mean": 14.34,
+        "max": 18.98,
+        "min": 9.46,
+        "stddev": 3.03,
+        "absolute_min": 1.9,
+        "absolute_max": 30.5
+      },
+      "wind": {
+        "mean": 18.26,
+        "gust_mean": 35.88,
+        "stddev": 5.57,
+        "absolute_max": 71.3
+      },
+      "precipitation": {
+        "mean": 2.52,
+        "rain_mean": 2.52,
+        "snowfall_mean": 0.0
+      },
+      "alerts": {
+        "heat_probability": 0.0,
+        "wind_probability": 0.9648
+      },
+      "days_count": 341
+    },
+    {
+      "month": 6,
+      "month_name": "Juin",
+      "temperature": {
+        "mean": 18.5,
+        "max": 23.22,
+        "min": 13.48,
+        "stddev": 3.15,
+        "absolute_min": 6.0,
+        "absolute_max": 36.0
+      },
+      "wind": {
+        "mean": 17.2,
+        "gust_mean": 33.93,
+        "stddev": 5.24,
+        "absolute_max": 74.5
+      },
+      "precipitation": {
+        "mean": 2.34,
+        "rain_mean": 2.34,
+        "snowfall_mean": 0.0
+      },
+      "alerts": {
+        "heat_probability": 0.0364,
+        "wind_probability": 0.9273
+      },
+      "days_count": 330
+    },
+    {
+      "month": 7,
+      "month_name": "Juillet",
+      "temperature": {
+        "mean": 20.52,
+        "max": 25.35,
+        "min": 15.38,
+        "stddev": 2.91,
+        "absolute_min": 8.5,
+        "absolute_max": 40.7
+      },
+      "wind": {
+        "mean": 17.42,
+        "gust_mean": 33.87,
+        "stddev": 5.37,
+        "absolute_max": 60.5
+      },
+      "precipitation": {
+        "mean": 1.7,
+        "rain_mean": 1.7,
+        "snowfall_mean": 0.0
+      },
+      "alerts": {
+        "heat_probability": 0.0733,
+        "wind_probability": 0.912
+      },
+      "days_count": 341
+    },
+    {
+      "month": 8,
+      "month_name": "Ao\u00fbt",
+      "temperature": {
+        "mean": 20.09,
+        "max": 25.0,
+        "min": 15.1,
+        "stddev": 3.06,
+        "absolute_min": 7.4,
+        "absolute_max": 37.5
+      },
+      "wind": {
+        "mean": 16.97,
+        "gust_mean": 33.64,
+        "stddev": 5.81,
+        "absolute_max": 81.0
+      },
+      "precipitation": {
+        "mean": 2.24,
+        "rain_mean": 2.24,
+        "snowfall_mean": 0.0
+      },
+      "alerts": {
+        "heat_probability": 0.0733,
+        "wind_probability": 0.915
+      },
+      "days_count": 341
+    },
+    {
+      "month": 9,
+      "month_name": "Septembre",
+      "temperature": {
+        "mean": 17.01,
+        "max": 21.77,
+        "min": 12.42,
+        "stddev": 3.2,
+        "absolute_min": 4.2,
+        "absolute_max": 34.0
+      },
+      "wind": {
+        "mean": 16.83,
+        "gust_mean": 33.14,
+        "stddev": 6.54,
+        "absolute_max": 94.7
+      },
+      "precipitation": {
+        "mean": 1.88,
+        "rain_mean": 1.88,
+        "snowfall_mean": 0.0
+      },
+      "alerts": {
+        "heat_probability": 0.0152,
+        "wind_probability": 0.8667
+      },
+      "days_count": 330
+    },
+    {
+      "month": 10,
+      "month_name": "Octobre",
+      "temperature": {
+        "mean": 13.11,
+        "max": 17.11,
+        "min": 9.55,
+        "stddev": 2.82,
+        "absolute_min": 1.6,
+        "absolute_max": 27.4
+      },
+      "wind": {
+        "mean": 18.54,
+        "gust_mean": 34.65,
+        "stddev": 7.31,
+        "absolute_max": 87.8
+      },
+      "precipitation": {
+        "mean": 2.26,
+        "rain_mean": 2.26,
+        "snowfall_mean": 0.0
+      },
+      "alerts": {
+        "heat_probability": 0.0,
+        "wind_probability": 0.915
+      },
+      "days_count": 341
+    },
+    {
+      "month": 11,
+      "month_name": "Novembre",
+      "temperature": {
+        "mean": 8.43,
+        "max": 11.43,
+        "min": 5.59,
+        "stddev": 3.24,
+        "absolute_min": -3.8,
+        "absolute_max": 20.8
+      },
+      "wind": {
+        "mean": 19.12,
+        "gust_mean": 35.78,
+        "stddev": 7.54,
+        "absolute_max": 91.4
+      },
+      "precipitation": {
+        "mean": 2.09,
+        "rain_mean": 2.04,
+        "snowfall_mean": 0.04
+      },
+      "alerts": {
+        "heat_probability": 0.0,
+        "wind_probability": 0.8909
+      },
+      "days_count": 330
+    },
+    {
+      "month": 12,
+      "month_name": "D\u00e9cembre",
+      "temperature": {
+        "mean": 6.03,
+        "max": 8.6,
+        "min": 3.47,
+        "stddev": 3.71,
+        "absolute_min": -5.3,
+        "absolute_max": 16.0
+      },
+      "wind": {
+        "mean": 20.04,
+        "gust_mean": 36.91,
+        "stddev": 8.27,
+        "absolute_max": 93.2
+      },
+      "precipitation": {
+        "mean": 2.41,
+        "rain_mean": 2.36,
+        "snowfall_mean": 0.04
+      },
+      "alerts": {
+        "heat_probability": 0.0,
+        "wind_probability": 0.9267
+      },
+      "days_count": 341
+    }
+  ]
+}

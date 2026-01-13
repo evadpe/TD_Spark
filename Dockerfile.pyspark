@@ -1,0 +1,12 @@
+FROM jupyter/pyspark-notebook:latest
+
+USER root
+RUN pip install --no-cache-dir \
+    kafka-python \
+    requests \
+    streamlit \
+    plotly \
+    hdfs \
+    pyspark
+
+USER $NB_UID
